@@ -8,6 +8,7 @@
 
 ### I am always trying to learn something new. Feel free to leave a message.
 
+# Personal Stuff
 - 🔭 I’m currently working on [Review](https://academ.com.au/review/) for [Academ](https://academ.com.au).
 - 🌱 I’m currently learning AWS infrastructure & Flutter.
 - 👯 I’m looking to collaborate on Flutter.
@@ -17,9 +18,11 @@
 
 # Github Stats
 <a href="#">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerajongit" alt="Most Used Languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=CSS,HTML&username=veerajongit" alt="Most Used Languages">
 </a>
 <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=veerajongit" alt="Veeraj's github stats">
 </a>
+
+
 
