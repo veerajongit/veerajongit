@@ -16,8 +16,10 @@
 
 
 # Github Stats
+<a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerajongit" alt="Most Used Languages" width="200px">
-
+</a>
+<a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=veerajongit" alt="Veeraj's github stats" width="480px">
-
+</a>
 
