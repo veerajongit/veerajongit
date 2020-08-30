@@ -1,3 +1,5 @@
+<div style="background-color: #000; color:#fff;">
+
 # Hey! I'm Veeraj 👋 
 
 ### I work as a Full Stack Developer with strong backend skills. I'm based in Sydney, Australia.
@@ -25,5 +27,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=veerajongit" alt="Veeraj's github stats">
 </a>
 
-
-
+</div>
