@@ -2,7 +2,7 @@
 
 ### I work as a Full Stack Developer with strong backend skills. I'm based in Sydney, Australia.
 
-### Since 2012 I've been living and breathing web development, have created wide variety on websites, web apps and mobile apps using web technologies.
+### Since 2012 I've been living and breathing web development, have created wide variety of websites, web apps and mobile apps using web technologies.
 
 > ### _"Programming is the new wizardry."_
 
